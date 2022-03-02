@@ -3,8 +3,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marginalizaram&show_icons=true&locale=en" alt="marginalizaram" /></p>
 
 <h1 align="center">Oi, meu nome é Daniel</h1>
-<h3 align="center">Não programo, só tento</h3>
-<h4 align="center">Mas nem consigo</h4>
+<h3 align="center">conhecido por draco</h3>
+
+<h4 align="center">Sim, você veio do discord</h4>
 
 
 

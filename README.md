@@ -4,8 +4,7 @@
 
 <h1 align="center">Oi, meu nome é Daniel</h1>
 <h3 align="center">conhecido por draco</h3>
-
-<h4 align="center">Sim, você veio do discord</h4>
+<h1 align="center">Sim, você veio do discord</h1>
 
 
 
